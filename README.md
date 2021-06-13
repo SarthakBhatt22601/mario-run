@@ -2,7 +2,7 @@
 
 It is a simple jump and run game using HTML , CSS and JavaScript.
 
-#About
+# About
 
 1. It's my first game using pure JavaScript.
 2. Basic motivation is to learn html JavaScript HTML DOM.
