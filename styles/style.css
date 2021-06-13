@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(../images/first.png);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+}
+
+.mssge1{
+    color: rgb(23, 29, 24);
+    position: absolute;
+    top: 15%;
+    left: 28%;
+    font-size: 80px;
+    font-family: fantasy;
+}
+
+.mssge2{
+    color: white;
+    position: absolute;
+    top: 24%;
+    left: 40%;
+    font-size: 35px;
+    font-family: cursive;
+}
+
+.button{
+    padding: 8px;
+    background:	none;
+    font-size: 50px;
+    font-family: cursive;
+    color: white;
+    border-color:white;
+    border-radius: 10px;
+    position: absolute;
+    top: 45%;
+    left: 41%;
+    transition-duration: 1s;
+}
+
+.button:hover{
+    background:	rgba(226, 238, 63, 0.746);
+    color: black;
+	border-color:black;    
+    transition-duration: 0.8s;
+}
+
+.git{
+    position: absolute;
+    top: 30%;
+    left: 47%;
+}
+
+.git a{
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+    font-family: cursive;
+}
+
+.git a:hover{
+    color: orangered;
+}
